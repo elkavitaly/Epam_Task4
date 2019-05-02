@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Comfortaa', cursive;
+}
+
+input {
+	margin: 20px 0 0 20px;
+	height: 20px;
+	font-size: 16px;
+}
+
+p {
+	margin: 20px 0 0 20px;
+}
+
+table, tr, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table {
+	margin-top: 20px;
+}
+
+td {
+	background-color: white;
+}
+
+.row {
+	height: 50px;
+}
+
+.cell {
+	width: 100px;
+	text-align: center;
+}
+
+#submit {
+	background-color: #a500a0;
+	border-radius: 3px;
+	height: 30px;
+	width: 150px;
+	border: none;
+}
